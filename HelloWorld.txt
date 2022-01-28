@@ -1,0 +1,6 @@
+Hello y'all
+
+
+Command to Run Script:
+
+node put-files.js --token=<token> .\HelloWorld.txt .\HelloWorld2.txt .\HelloWorld3.txt
